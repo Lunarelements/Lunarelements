@@ -1,5 +1,7 @@
 # Hey there, I'm Lunarelements 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Lunarelements.Lunarelements&right_color=blue)
+
 <!--
 **Lunarelements/Lunarelements** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,11 +12,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-## ☎️ Get In Touch
+## 🤔 Who the Heck Are You?
+
+## 📫 Get In Touch
 I can be reached through a number of channels, including but not limited to: 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Technickel3-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Technickel3)
