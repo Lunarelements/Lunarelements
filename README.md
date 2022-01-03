@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ☎️ Contact
+## ☎️ Get In Touch
 I can be reached through a number of channels, including but not limited to: 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Technickel3-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Technickel3)
@@ -24,9 +24,7 @@ I can be reached through a number of channels, including but not limited to:
 [![Email Badge](https://img.shields.io/badge/contact@technickel.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@technickel.dev)
 	
 
-
-
-## 🤑 Support
+## 🤑 Support Me!
 You think the world needs more of my creations? Want to help motivate me more? Check out the my links below:
 
 ![GitHub Sponsor Badge](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors)
