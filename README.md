@@ -1,4 +1,4 @@
-# Hey there, I'm Lunarelements 👋
+# Hey there, I'm Technickel 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lunarelements.Lunarelements&right_color=blue)
 
