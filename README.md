@@ -34,10 +34,10 @@ I do tech so I've learned a thing or two along the way, here are a few of my use
 ## 🗂 What Wonderous Things Are You Working On?
 Though I may be contributing to Open Source or doing random things here and there, right now my main focus is on two projects, Low Poly and Augmented Municipality!
 
-### Low Poly 🖼
+### 🖼 Low Poly
 [Low Poly](https://github.com/Lunarelements/low-poly) is a React based website that takes advantage of WASM to generate digital art inspired by low poly art styles. You can upload any image you want, generating your own cool pieces.
 
-### Augmented Municipality 🏛
+### 🏛 Augmented Municipality
 This one is an augmented reality project with the idea of taking urban planning into the next dimension. Imagine being able to get a realistic view of what your city may look like in the future without the false hopes that many perfect renders might give. This app uses WebXR to render 3D buildings and landscapes into real life for anyone with a connect to the internet and an AR compatible device.
 
 ## 📫 Get In Touch
