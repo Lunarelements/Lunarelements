@@ -2,18 +2,14 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lunarelements.Lunarelements&right_color=blue)
 
-<!--
-**Lunarelements/Lunarelements** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github, a great place to take a look at some of my curiosities and works!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
 ## 🤔 Who the Heck Are You?
+
+I'm a technology loving Canadian 🇨🇦 with a knack for all kinds of things. I like to think of myself as someone who is a jack of all trades but master of none.
+
+I've played a number of sports both competitively and recreationally and if you can name it I've probably had a go at it at one point or another. ⚽️ Outside of my obsession with technology, I also have a passion for [art](https://tripleresolution.com/) 🎨 and making things with my 3D printer!
+
 
 ## 💻 What can I do?
 I do tech so I've learned a thing or two along the way, here are a few of my useful ones:
@@ -34,6 +30,15 @@ I do tech so I've learned a thing or two along the way, here are a few of my use
 ![Inkscape Badge](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure Badge](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
+
+## 🗂 What Wonderous Things Are You Working On?
+Though I may be contributing to Open Source or doing random things here and there, right now my main focus is on two projects, Low Poly and Augmented Municipality!
+
+### Low Poly 🖼
+[Low Poly](https://github.com/Lunarelements/low-poly) is a React based website that takes advantage of WASM to generate digital art inspired by low poly art styles. You can upload any image you want, generating your own cool pieces.
+
+### Augmented Municipality 🏛
+This one is an augmented reality project with the idea of taking urban planning into the next dimension. Imagine being able to get a realistic view of what your city may look like in the future without the false hopes that many perfect renders might give. This app uses WebXR to render 3D buildings and landscapes into real life for anyone with a connect to the internet and an AR compatible device.
 
 ## 📫 Get In Touch
 I can be reached through a number of channels, including but not limited to: 
