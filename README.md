@@ -49,7 +49,7 @@ I can be reached through a number of channels, including but not limited to:
 [![Twitter Badge](https://img.shields.io/badge/-@Technickel3-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Technickel3)
 [![Linkedin Badge](https://img.shields.io/badge/-Bradley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bleona/)
 [![Instagram Badge](https://img.shields.io/badge/-@tech__nickel-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tech_nickel/)
-[![Reddit Badge](https://img.shields.io/badge/tech--nickel-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/tech-nickel/)
+[![Reddit Badge](https://img.shields.io/badge/u/tech--nickel-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/tech-nickel/)
 [![Email Badge](https://img.shields.io/badge/contact@technickel.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@technickel.dev)
 	
 
