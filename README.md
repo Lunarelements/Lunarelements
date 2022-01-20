@@ -1,7 +1,5 @@
 # Hey there, I'm Technickel 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Lunarelements.Lunarelements&right_color=blue)
-
 Welcome to my Github, a great place to take a look at some of my curiosities and works!
 
 ## 🤔 Who the Heck Are You?
