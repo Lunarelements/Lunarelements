@@ -29,7 +29,7 @@ I do tech so I've learned a thing or two along the way, here are a few of my use
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![Inkscape Badge](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white)
 ![Affinity Designer Badge](https://img.shields.io/badge/Affinity_Desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white)
-![AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure Badge](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
 ## 🗂 What Wonderous Things Are You Working On?
