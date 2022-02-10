@@ -31,6 +31,7 @@ I do tech so I've learned a thing or two along the way, here are a few of my use
 ![Affinity Designer Badge](https://img.shields.io/badge/Affinity_Desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure Badge](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ## 🗂 What Wonderous Things Are You Working On?
 Though I may be contributing to Open Source or doing random things here and there, right now my main focus is on two projects, Low Poly and Augmented Municipality!
