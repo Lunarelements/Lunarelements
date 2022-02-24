@@ -28,6 +28,7 @@ I do tech so I've learned a thing or two along the way, here are a few of my use
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![Inkscape Badge](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white)
+![SVG Badge](https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=SVG&logoColor=white)
 ![Affinity Designer Badge](https://img.shields.io/badge/Affinity_Desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure Badge](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=azure-devops&logoColor=white)
