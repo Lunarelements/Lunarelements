@@ -60,6 +60,8 @@ You think the world needs more of my creations? Want to help motivate me more? C
 [![BuyMeACoffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pIvCSjDLo)
 [![Brave Badge](https://img.shields.io/badge/BAT-FB542B?style=flat&logo=Brave&logoColor=white)](https://whatisbat.com/2018/12/19/how-to-tip-a-website-using-brave-bat/)
 
+Right now all my development is done on laptop, so currently contributions are being put towards getting into that multi monitor life!
+
 P.S. Your support doesn't have to be monetary, I also accept praise on any of my social media channels 😃
 
 P.P.S. If your favorite channel of support isn't listed, we can change that. Just bring it to my attention!
