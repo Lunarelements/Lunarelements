@@ -6,7 +6,7 @@ Welcome to my Github, a great place to take a look at some of my curiosities and
 
 I'm a technology loving Canadian with a knack for all kinds of things. I like to think of myself as someone who is a jack of all trades but master of none.
 
-I've played a number of sports both competitively and recreationally and if you can name it I've probably had a go at it at one point or another. ⚽️ Outside of my obsession with technology, I also have a passion for [art](https://tripleresolution.com/) 🎨 and making things with my 3D printer (Prusa Mk3S+)!
+I've played a number of sports both competitively and recreationally and if you can name it I've probably had a go at it at one point or another. ⚽️ Outside of my obsession with technology, I also have a passion for art 🎨 and making things with my 3D printer (Prusa Mk3S+)!
 
 
 ## 💻 What can I do?
